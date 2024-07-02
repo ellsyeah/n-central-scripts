@@ -1,0 +1,5 @@
+SERVERURL="https://n.keytelhosting.net:443"
+NCVERSION="2023.8.0.11"
+CUSTOMER_NAME="fama PR"
+CUSTOMER_ID=0374 
+REGISTRATION_TOKEN="40fbe7c8-a2ec-ffbd-0e24-6ce1b749dbb0"
