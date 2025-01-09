@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\AgencyUpdate]
+"ManagedBy"="Keytel"
+"RMMTool"="N-ABLE N-CENTRAL"
+"ManagedBySupportEmail"="helpdesk@keytelsystems.com"
+"ManagedBySupportPhone"="614-328-0555"
